@@ -1,0 +1,21 @@
+{
+    "admin": {
+        "password": "password123",
+        "search_history": [
+            "neem",
+            "cold",
+            "cold and cough",
+            "cough"
+        ]
+    },
+    "cse2023": {
+        "password": "ksrce123",
+        "search_history": [
+            "gwdq"
+        ]
+    },
+    "tulsi": {
+        "password": "password123",
+        "search_history": []
+    }
+}
